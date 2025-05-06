@@ -15,14 +15,13 @@
 - 🦿 Interested in combining **Inverse Kinematics**, **Model Predictive Control**, and **RL policies**
 - 💻 Experienced in:
   - ROS2, Qt, C++, Python
-  - Dynamixel, ATmega128, IMU, Loadcell
-- 📊 Currently experimenting with **Sim-to-Real transfer** for walking policies using sensor fusion
+  - 📊 Currently experimenting with **Sim-to-Real transfer** for walking policies
 
 ---
 
 ### 🧪 Current Projects
 
-- **🤖 Robit Humanoid Walker**
+- **🤖 Humanoid Walk**
   - Training RL policies on a humanoid
 - **📦 ROS2 + Qt Projects**
 - **📈 Sensor-based Balance Control**
